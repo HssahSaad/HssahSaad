@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hssah Alsherihi</h1>
 <h3 align="center">A AI and Data Science Enthusiast and passionate for Analysis, Visualization</h3>
 
-- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **AI, Data Science, Data Visualization, Python , SQL**
 
